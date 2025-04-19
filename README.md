@@ -1,8 +1,8 @@
 # Proyecto DevOps – Aplicación Web Simple
 
 **Equipo:**  
-- Nombre 1 – Matrícula 1  
-- Nombre 2 – Matrícula 2
+- Luis Elier - 2023-1667 
+- Luis Angel - 2023-1681
 
 ## Descripción
 
