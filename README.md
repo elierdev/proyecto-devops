@@ -1,4 +1,9 @@
 # Proyecto DevOps – Aplicación Web Simple
+<p align="center">
+  <a href="https://elierdev.github.io/proyecto-devops/" target="_blank">
+    <img src="https://img.shields.io/badge/ Ver_página_en_vivo-28a745?style=for-the-badge&logo=github&logoColor=white" alt="Ver página en vivo">
+  </a>
+</p>
 
 **Equipo:**  
 - Luis Elier - 2023-1667 
